@@ -1,47 +1,32 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Short Course Title]</span>
+  <span class="headline">Software Engineering Bootcamp Prework</span>
 </h1>
-
-**_Notes to designers, this is just a template, for a full implementation example see one of the other short courses in the modular-courses org_**
 
 ## About
 
-Detailed explanation of what the course is about, often taken from the official HLD docks.
+This is the official prework of the Software Engineering Bootcamp Program.
 
-## Prerequisites
-
-Clearly outline the prerequisite knowledge or skills students should have before starting this course. 
-
-## Installfest Guides
-
-| Module Repo   | Student-Facing        | Instructor Notes                                   |
-| ------------- | --------------------- | -------------------------------------------------- |
-| [Repo Link]() | [GitHup Pages Link]() | Short quick notes (this course is on a VM, etc...) |
-
-## Pacing Guide
-
-This should be stored publicly in google drive and linked here.
-
-- [FT 40 hours - 1 Week Schedule]()
+This prework serves as the foundation for the Software Engineering Bootcamp Program. It introduces essential tools, languages, and concepts required to succeed in the program. The modules are designed to provide a hands-on, step-by-step introduction to web development fundamentals, ensuring students have a strong grasp of core skills before advancing to more complex topics.
 
 ## Content
 
-| Module Repo            | Type                 | Student-facing link   | Est. Delivery Time   | About                                       |
-| ---------------------- | -------------------- | --------------------- | -------------------- | ------------------------------------------- |
-| [Module 1 Repo Link]() | Lecture/Lab/Workshop | [GitHup Pages Link]() | 90 min               | Main about from module to outline topics... |
-| [Module 2 Repo Link]() | Lecture/Lab/Workshop | [GitHup Pages Link]() | 90 min               | Main about from module to outline topics... |
-| [Module 3 Repo Link]() | Lecture/Lab/Workshop | [GitHup Pages Link]() | 90 min               | Main about from module to outline topics... |
-| **Total content**      |                      |                       | ~ total course hours |                                             |
-
-## Unit projects
-
-| Module Repo            | Student-facing link   | About                                |
-| ---------------------- | --------------------- | ------------------------------------ |
-| [Title of Project 1]() | [GitHup Pages Link]() | What do students do in this project? |
-| [Title of Project 2]() | [GitHup Pages Link]() | What do students do in this project? |
-
-
-## Additional Resources
-
-Include links or other resources to be distributed to students during this course. 
+| Module Repo                                                                                                                                                  | Student-facing link                                                                                                                      | Est. Delivery Time      | About                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| [Welcome to the Software Engineering Bootcamp](https://git.generalassemb.ly/modular-curriculum-all-courses/seb-pre-work-welcome-lesson/)                     | [GitHub Pages Link](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/seb-pre-work-welcome-lesson/)                      | 20 min                  | An overview of the prework structure, learning goals, and tips for getting the most out of the bootcamp program.  |
+| [Introduction to HTML](https://git.generalassemb.ly/modular-curriculum-all-courses/seb-pre-work-introduction-to-html)                                        | [GitHub Pages Link](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/seb-pre-work-introduction-to-html)                 | 20 min                  | A beginner-friendly introduction to HTML, covering the purpose of markup languages and their role in web pages.   |
+| [Adding Content to a Web Page](https://git.generalassemb.ly/modular-curriculum-all-courses/seb-pre-work-adding-content-to-a-webpage/)                        | [GitHub Pages Link](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/seb-pre-work-adding-content-to-a-webpage/)         | 30 min                  | Guides students through adding basic HTML elements such as headings, paragraphs, and lists to a webpage.          |
+| [Formatting and Organizing Content with HTML](https://git.generalassemb.ly/modular-curriculum-all-courses/seb-pre-work-formatting-and-organizing-with-html/) | [GitHub Pages Link](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/seb-pre-work-formatting-and-organizing-with-html/) | 30 min                  | Explains how to structure and format web content using semantic HTML elements for better readability.             |
+| [Introduction to CSS](https://git.generalassemb.ly/modular-curriculum-all-courses/seb-pre-work-introduction-to-css/)                                         | [GitHub Pages Link](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/seb-pre-work-introduction-to-css/)                 | 30 min                  | Introduces CSS basics, including syntax and its role in styling and enhancing the appearance of web pages.        |
+| [Styling Text with CSS](https://git.generalassemb.ly/modular-curriculum-all-courses/seb-pre-work-styling-text-with-css/)                                     | [GitHub Pages Link](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/seb-pre-work-styling-text-with-css/)               | 30 min                  | Covers text-specific CSS properties such as font styles, colors, and alignment to enhance web page typography.    |
+| [Adjusting Layout with CSS](https://git.generalassemb.ly/modular-curriculum-all-courses/seb-pre-work-adjusting-layout-with-css/)                             | [GitHub Pages Link](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/seb-pre-work-adjusting-layout-with-css/)           | 30 min                  | Explores layout properties like margins, padding, and positioning to organize content on a web page.              |
+| [Responsive Layouts with CSS](https://git.generalassemb.ly/modular-curriculum-all-courses/seb-pre-work-responsive-layouts/)                                  | [GitHub Pages Link](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/seb-pre-work-responsive-layouts/)                  | 30 min                  | Teaches how to make web pages responsive using media queries and flexible layouts to accommodate various devices. |
+| [Introduction to JavaScript](https://git.generalassemb.ly/modular-curriculum-all-courses/seb-pre-work-introduction-to-javascript/)                           | [GitHub Pages Link](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/seb-pre-work-introduction-to-javascript/)          | 30 min                  | Provides an introduction to JavaScript, covering its purpose and how it adds interactivity to web pages.          |
+| [Arrays and Objects](https://git.generalassemb.ly/modular-curriculum-all-courses/seb-pre-work-arrays-and-objects/)                                           | [GitHub Pages Link](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/seb-pre-work-arrays-and-objects/)                  | 30 min                  | Introduces key JavaScript data structures, arrays, and objects, with examples of their use in programming.        |
+| [Control Flow](https://git.generalassemb.ly/modular-curriculum-all-courses/seb-pre-work-control-flow/)                                                       | [GitHub Pages Link](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/seb-pre-work-control-flow/)                        | 60 min                  | Covers control flow concepts, such as conditionals and loops, to enable decision-making and repetition in code.   |
+| [Functions](https://git.generalassemb.ly/modular-curriculum-all-courses/seb-pre-work-functions/)                                                             | [GitHub Pages Link](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/seb-pre-work-functions/)                           | 60 min                  | Explains how to create and use JavaScript functions to write reusable and modular code.                           |
+| [Meet the DOM](https://git.generalassemb.ly/modular-curriculum-all-courses/seb-pre-work-meet-the-dom/)                                                       | [GitHub Pages Link](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/seb-pre-work-meet-the-dom/)                        | 60 min                  | Introduces the Document Object Model (DOM), its structure, and how JavaScript can interact with it.               |
+| [Responding to Browser Events](https://git.generalassemb.ly/modular-curriculum-all-courses/seb-pre-work-responding-to-browser-events/)                       | [GitHub Pages Link](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/seb-pre-work-responding-to-browser-events/)        | 60 min                  | Teaches how to handle browser events with JavaScript, enabling interactive user experiences.                      |
+| [The Command Line Interface](https://git.generalassemb.ly/modular-curriculum-all-courses/seb-pre-work-the-command-line-interface)                            | [GitHub Pages Link](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/seb-pre-work-the-command-line-interface/)          | 30 min                  | Provides a basic introduction to navigating and performing tasks using the command-line interface (CLI).          |
+| [Version Control with Git](https://git.generalassemb.ly/modular-curriculum-all-courses/seb-pre-work-version-control-with-git/)                               | [GitHub Pages Link](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/seb-pre-work-version-control-with-git/)            | 30 min                  | Explains the basics of version control with Git, including committing changes and collaborating with others.      |
+| **Total content**                                                                                                                                            |                                                                                                                                          | ~ 10 total course hours |                                                                                                                   |
